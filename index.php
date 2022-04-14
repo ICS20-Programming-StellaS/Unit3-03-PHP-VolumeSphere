@@ -36,7 +36,7 @@
     <!-- Values for calculating area and perimeter of trapezoid-->
     <form action="./results.php" method="post" target="results">  
       <label for=radius">Radius (cm) :</label>
-      <input type="number"  name="radius" id="radius" placeholder="Radius..." name="radius"><br><br>
+      <input type="text"  name="radius" id="radius" placeholder="Radius..." name="radius"><br><br>
 
 
       <input type="submit" value="Calculate">
